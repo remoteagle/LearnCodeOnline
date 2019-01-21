@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LearnCodeOnline.in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register_me">Sign Up</string>
+    <string name="confirm_pass">Confirm Passowrd</string>
+    <string name="login">Login</string>
+    <string name="register">Rigester</string>
+    <string name="logo">logo</string>
+    <string name="simple_logo">simple logo</string>
+</resources>
