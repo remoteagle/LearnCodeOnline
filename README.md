@@ -1,4 +1,4 @@
 # LearnCodeOnline
 
 
-<scipt>alert(3)</script>
+<script>alert(3)</script>
