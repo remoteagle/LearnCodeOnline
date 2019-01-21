@@ -2,4 +2,4 @@
 
 
 
-![img](http://i.imgur.com/yourfilename.png" <h1>hi</h1>)
+![img](http://i.imgur.com/yourfilename.png" hi)
